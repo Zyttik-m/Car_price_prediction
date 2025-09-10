@@ -119,26 +119,10 @@ Car_price_prediction/
 - [ ] Add advanced visualizations for insights presentation
 - [ ] Include model performance metrics and comparison
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/improvement`)
-3. Commit your changes (`git commit -am 'Add new feature'`)
-4. Push to the branch (`git push origin feature/improvement`)
-5. Create a Pull Request
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
 **Kittithat Chalermvisutkul**
 - GitHub: [@Zyttik-m](https://github.com/Zyttik-m)
-- Email: kittithatck@gmail.com
 
----
 
-⭐ If you found this project helpful, please give it a star!
